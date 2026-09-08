@@ -1,0 +1,3 @@
+qa-github-a bundled asset.
+If the assistant can read this line, the assets/ folder imported from GitHub correctly.
+Token: ASSET-GH-A-1
